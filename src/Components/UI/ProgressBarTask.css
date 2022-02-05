@@ -1,0 +1,8 @@
+
+.rotated_progress_bar
+{
+        transform: rotate(-90deg) translateX(-300px);
+        height: 100%;
+        width: 100%
+    
+}
